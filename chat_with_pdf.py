@@ -26,11 +26,12 @@ chromadb
 sentence-transformers -q
 google-generativeai 
 pdfplumber -q
+streamlit
 
 """Next, let's import all required libraries:"""
 
-streamlit
 
+import langchain
 import os
 import pdfplumber
 import google.generativeai as genai
