@@ -1,3 +1,12 @@
+langchain 
+langchain-google-genai 
+langchain_community 
+pypdf 
+chromadb 
+sentence-transformers -q
+google-generativeai 
+pdfplumber -q
+streamlit
 
 import langchain
 import os
